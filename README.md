@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/hardeep04/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/hardeep04/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
