@@ -8,14 +8,10 @@ public:
         ans.push_back({s,e});
         for(int i=1; i<n; i++){
             int l=v[i][0], r=v[i][1];
-            int x=ans.size();
-            if(l>=s && l<=e) ans[x-1][1] = max(ans[x-1][1], r);
-            else{
-                ans.push_back({l,r});
-                x++;
-            }
-            s=ans[x-1][0];
-            e=ans[x-1][1]; 
+            if(l>=s && l<=e) ans.back()[1] = max(ans.back()[1], r);
+            else ans.push_back({l,r});
+            s=ans.back()[0];
+            e=ans.back()[1]; 
         }
         return ans;
     }
