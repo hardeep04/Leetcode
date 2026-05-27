@@ -1,24 +1,24 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        map<char,int> m;
-        int n=word.size();
-        for(int i=0; i<n; i++){
-            if(isupper(word[i]) && m.count(word[i])==0){
-                m[word[i]] = i;
+        int n=word.length();
+        vector<int> last_lower(26, -1), first_upper(26, -1);
+        
+        for (int i = 0; i < n; i++) {
+            char ch = word[i];
+            if (islower(ch)) last_lower[ch - 'a'] = i;
+            else {
+                if (first_upper[ch - 'A'] == -1) first_upper[ch - 'A'] = i;
             }
         }
-        for(int i=n-1; i>=0; i--){
-            if(islower(word[i])){
-                if(m.count(toupper(word[i])) == 0) continue; 
-                if(m.count(word[i])==0) m[word[i]]=1;
-                if(i > m[toupper(word[i])]) m[word[i]] = 0;
+        
+        int ans = 0;
+        for (int i = 0; i < 26; i++) {
+            if (last_lower[i] != -1 && first_upper[i] != -1 &&
+            last_lower[i] < first_upper[i]) {
+                ans++;
             }
-        }
-        int ans=0;
-        for(auto &[c,x] : m){
-            if(islower(c)) ans+=x;
-        }
+        }        
         return ans;
     }
 };
