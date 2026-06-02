@@ -64,6 +64,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/hardeep04/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/hardeep04/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/hardeep04/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/hardeep04/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -83,6 +84,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/hardeep04/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/hardeep04/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/hardeep04/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
