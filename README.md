@@ -37,6 +37,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hardeep04/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hardeep04/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3862-find-the-smallest-balanced-index](https://github.com/hardeep04/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/hardeep04/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/hardeep04/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@
 | [0075-sort-colors](https://github.com/hardeep04/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/hardeep04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +143,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hardeep04/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hardeep04/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hardeep04/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
