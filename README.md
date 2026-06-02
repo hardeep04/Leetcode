@@ -46,6 +46,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardeep04/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/hardeep04/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/hardeep04/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/hardeep04/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/hardeep04/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Math
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/hardeep04/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/hardeep04/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
