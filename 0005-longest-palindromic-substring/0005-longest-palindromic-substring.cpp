@@ -15,7 +15,7 @@ public:
             int odd = fun(s,i,i);
             int even = fun(s,i,i+1);
             int len=max(odd,even);
-            if(len >= end-start+1){
+            if(len > end-start+1){
                 start = i - ((len-1)>>1);
                 end = i + (len>>1);
             }
