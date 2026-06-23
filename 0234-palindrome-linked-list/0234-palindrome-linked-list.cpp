@@ -10,30 +10,32 @@
  */
 class Solution {
 public:
+    ListNode* reverse(ListNode* head){
+        if(!head || !head->next) return head;
+        ListNode* newHead = reverse(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        return newHead;
+    }
     bool isPalindrome(ListNode* head) {
-        ListNode* dummy = new ListNode(0);
-        ListNode* copyTail = dummy;
-        ListNode* curr = head;
-        while (curr) {
-            copyTail->next = new ListNode(curr->val);
-            copyTail = copyTail->next;
-            curr = curr->next;
+        if(!head || !head->next) return 1;
+        ListNode* slow=head, *fast = head;
+        while(fast->next && fast->next->next){
+            slow=slow->next;
+            fast = fast->next->next;
         }
-        ListNode* temp = dummy->next;
-        curr=head->next;
-        ListNode* temp2 = new ListNode(head->val);
-        while(curr){
-            ListNode* Next=curr->next;
-            curr->next = temp2;
-            temp2=curr;
-            curr=Next;
+        ListNode* newHead = reverse(slow->next);
+        ListNode* second = newHead;
+        ListNode* first = head;
+        while(second){
+            if(first->val != second->val){
+                // reverse(newHead);
+                return 0;
+            } 
+            first=first->next;
+            second=second->next;
         }
-        while(temp && temp2){
-            cout<<temp->val<<" "<<temp2->val<<endl;
-            if(temp->val != temp2->val) return 0;
-            temp=temp->next;
-            temp2=temp2->next;
-        }
+        // reverse(newHead);
         return 1;
     }
 };
