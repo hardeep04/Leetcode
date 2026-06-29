@@ -61,6 +61,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/hardeep04/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/hardeep04/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/hardeep04/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/hardeep04/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
@@ -202,6 +203,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/hardeep04/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/hardeep04/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hardeep04/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
