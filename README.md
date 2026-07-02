@@ -28,6 +28,7 @@
 | [0162-find-peak-element](https://github.com/hardeep04/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/hardeep04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/hardeep04/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/hardeep04/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/hardeep04/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -218,4 +219,5 @@
 | [0022-generate-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/hardeep04/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/hardeep04/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/hardeep04/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
