@@ -2,8 +2,11 @@ class Solution {
 public:
     void fun(vector<int>& v, int target, vector<vector<int>> &ans, vector<int> &temp, int i){
         if(target<0) return;
+        if(target==0){
+            ans.push_back(temp);
+            return;
+        }
         if(i==v.size()){
-            if(target==0) ans.push_back(temp);
             return;
         } 
         temp.push_back(v[i]);
