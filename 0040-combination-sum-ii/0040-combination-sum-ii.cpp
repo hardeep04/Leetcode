@@ -5,18 +5,13 @@ public:
             ans.push_back(temp);
             return;
         }
-        if(i==v.size() || target<0){
-            return;
-        }
-        if(v[i]<=target){
-            temp.push_back(v[i]);
-            fun(v,target-v[i], ans, temp, i+1);
+        for(int in = i; in < v.size(); in++){
+            if(in>i && v[in-1] == v[in]) continue;
+            if(v[in]>target) break;
+            temp.push_back(v[in]);
+            fun(v,target-v[in], ans, temp, in+1);
             temp.pop_back();
         }
-        while (i + 1 < v.size() && v[i] == v[i + 1]) {
-            i++;
-        }
-        fun(v, target, ans, temp, i + 1);
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
