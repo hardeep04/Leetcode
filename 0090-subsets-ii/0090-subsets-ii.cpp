@@ -2,9 +2,6 @@ class Solution {
 public:
     void fun(vector<int> &arr, vector<vector<int>>& ans, vector<int> temp, int ind){
         ans.push_back(temp);
-        if(ind==arr.size()){
-            return;
-        }
         for(int i=ind; i<arr.size(); i++){
             if(i>ind && arr[i] == arr[i-1]) continue;
             temp.push_back(arr[i]);
