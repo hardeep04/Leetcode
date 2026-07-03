@@ -7,7 +7,7 @@ public:
         } 
         return 1;
     }
-    void fun(string& s, vector<vector<string>>&ans, vector<string>& v, string temp, int ind){
+    void fun(string& s, vector<vector<string>>&ans, vector<string>& v, int ind){
         if(ind==s.length()){
             ans.push_back(v);
             return ;
@@ -16,7 +16,7 @@ public:
             string t = s.substr(ind,i-ind+1);
             if(ispalin(t)){
                 v.push_back(t);
-                fun(s,ans,v,temp,i+1);
+                fun(s,ans,v,i+1);
                 v.pop_back();
             }
         }
@@ -24,7 +24,7 @@ public:
     vector<vector<string>> partition(string s) {
         vector<vector<string>> ans;
         vector<string> v;
-        fun(s,ans,v, "", 0);
+        fun(s,ans,v, 0);
         return ans;
     }
 };
