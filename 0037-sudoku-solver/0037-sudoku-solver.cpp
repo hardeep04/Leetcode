@@ -1,16 +1,12 @@
 class Solution {
 public:
-    bool issafe(vector<vector<char>>& board, int row, int col, int num){
+    bool isvalid(vector<vector<char>>& board, char x, int row, int col){
         for(int i=0; i<9; i++){
-            if(board[i][col]==char(48+num)) return 0;
+            if(board[row][i]==x || board[i][col]==x) return 0;
         }
         for(int i=0; i<9; i++){
-            if(board[row][i]==char(48+num)) return 0;
-        }
-        int k = (row/3)*3 + col/3;
-        for(int r = (row/3)*3; r<(row/3)*3+3; r++){
-            for(int c = (col/3)*3; c<(col/3)*3+3; c++){
-                if(board[r][c]==char(48+num)) return 0;
+            for(int j=0; j<9; j++){
+                if(i/3 == row/3 && j/3 == col/3 && board[i][j] == x) return 0;
             }
         }
         return 1;
@@ -20,19 +16,21 @@ public:
         bool filled=1;
         for(int i=0; i<9; i++){
             for(int j=0; j<9; j++){
-                if(board[i][j]=='.'){
-                    row=i; col=j;
+                if(board[i][j] == '.'){
+                    row=i;
+                    col=j;
                     filled=0;
                     break;
                 }
             }
             if(!filled) break;
         }
+        
         if(filled) return 1;
 
-        for(int num=1; num<=9; num++){
-            if(issafe(board, row,col,num)){
-                board[row][col]=char(48+num);
+        for(int i=1; i<=9; i++){
+            if(isvalid(board,i+'0',row,col)){
+                board[row][col]=i+'0';
                 if(solve(board)) return 1;
                 board[row][col]='.';
             }
