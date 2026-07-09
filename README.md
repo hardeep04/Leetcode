@@ -71,6 +71,7 @@
 | [0048-rotate-image](https://github.com/hardeep04/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/hardeep04/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/hardeep04/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0282-expression-add-operators](https://github.com/hardeep04/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/hardeep04/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hardeep04/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -122,6 +123,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/hardeep04/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/hardeep04/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/hardeep04/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0282-expression-add-operators](https://github.com/hardeep04/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/hardeep04/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/hardeep04/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/hardeep04/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -244,6 +246,7 @@
 | [0090-subsets-ii](https://github.com/hardeep04/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/hardeep04/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/hardeep04/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0282-expression-add-operators](https://github.com/hardeep04/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
