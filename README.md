@@ -71,6 +71,7 @@
 | [0048-rotate-image](https://github.com/hardeep04/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/hardeep04/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/hardeep04/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/hardeep04/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0282-expression-add-operators](https://github.com/hardeep04/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/hardeep04/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
@@ -231,6 +232,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/hardeep04/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/hardeep04/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/hardeep04/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hardeep04/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1922-count-good-numbers](https://github.com/hardeep04/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Backtracking
@@ -251,6 +253,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/hardeep04/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0231-power-of-two](https://github.com/hardeep04/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
