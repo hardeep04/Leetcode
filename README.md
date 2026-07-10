@@ -21,6 +21,7 @@
 | [0056-merge-intervals](https://github.com/hardeep04/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/hardeep04/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/hardeep04/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hardeep04/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/hardeep04/Leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -249,6 +250,7 @@
 | [0039-combination-sum](https://github.com/hardeep04/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/hardeep04/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/hardeep04/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/hardeep04/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/hardeep04/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/hardeep04/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -258,6 +260,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/hardeep04/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/hardeep04/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/hardeep04/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/hardeep04/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hardeep04/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
