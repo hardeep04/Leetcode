@@ -6,7 +6,7 @@ public:
         int total = 1<<n;
         for(int i=0; i<total; i++){
             vector<int> v;
-            for(int j=0; j<=31; j++){
+            for(int j=0; j<n; j++){
                 if(i&(1<<j)) v.push_back(nums[j]);
             }
             ans.push_back(v);
