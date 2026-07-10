@@ -36,6 +36,7 @@
 | [0189-rotate-array](https://github.com/hardeep04/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/hardeep04/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/hardeep04/Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/hardeep04/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/hardeep04/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -263,6 +264,7 @@
 | [0078-subsets](https://github.com/hardeep04/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/hardeep04/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/hardeep04/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/hardeep04/Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hardeep04/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
