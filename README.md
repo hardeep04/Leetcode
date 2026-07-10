@@ -260,6 +260,7 @@
 | [0029-divide-two-integers](https://github.com/hardeep04/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0090-subsets-ii](https://github.com/hardeep04/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/hardeep04/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/hardeep04/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
