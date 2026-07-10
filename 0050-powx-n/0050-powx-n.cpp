@@ -8,8 +8,7 @@ public:
             return x*myPow(x,abs(n+1));
         }
         if((n&1)==0){
-            x=x*x;
-            n=n>>1;
+            return myPow(x*x, (n>>1));
         }
         return x*myPow(x,n-1);
     }
