@@ -39,6 +39,7 @@
 | [0229-majority-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/hardeep04/Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/hardeep04/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/hardeep04/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/hardeep04/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -99,6 +100,7 @@
 | [0229-majority-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/hardeep04/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/hardeep04/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/hardeep04/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hardeep04/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -217,6 +219,7 @@
 | [0225-implement-stack-using-queues](https://github.com/hardeep04/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/hardeep04/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hardeep04/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/hardeep04/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardeep04/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String Matching
@@ -304,4 +307,8 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hardeep04/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/hardeep04/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
