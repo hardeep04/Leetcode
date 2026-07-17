@@ -15,6 +15,7 @@
 | [0037-sudoku-solver](https://github.com/hardeep04/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/hardeep04/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/hardeep04/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/hardeep04/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/hardeep04/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/hardeep04/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -61,6 +62,7 @@
 | [0018-4sum](https://github.com/hardeep04/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardeep04/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/hardeep04/Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/hardeep04/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hardeep04/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hardeep04/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -172,6 +174,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardeep04/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/hardeep04/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/hardeep04/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardeep04/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -216,6 +219,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/hardeep04/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/hardeep04/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/hardeep04/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -312,6 +316,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
