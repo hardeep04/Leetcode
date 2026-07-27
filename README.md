@@ -327,6 +327,7 @@
 | [0584-find-customer-referee](https://github.com/hardeep04/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/hardeep04/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/hardeep04/Leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1280-students-and-examinations](https://github.com/hardeep04/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/hardeep04/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/hardeep04/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/hardeep04/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
