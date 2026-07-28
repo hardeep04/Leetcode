@@ -122,6 +122,7 @@
 | [0242-valid-anagram](https://github.com/hardeep04/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/hardeep04/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardeep04/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hardeep04/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hardeep04/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hardeep04/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,4 +342,8 @@
 | [1683-invalid-tweets](https://github.com/hardeep04/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/hardeep04/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/hardeep04/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hardeep04/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
