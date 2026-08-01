@@ -144,6 +144,7 @@
 | [0205-isomorphic-strings](https://github.com/hardeep04/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/hardeep04/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0282-expression-add-operators](https://github.com/hardeep04/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
+| [0402-remove-k-digits](https://github.com/hardeep04/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/hardeep04/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/hardeep04/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/hardeep04/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -156,6 +157,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/hardeep04/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Trie
@@ -232,6 +234,7 @@
 | [0225-implement-stack-using-queues](https://github.com/hardeep04/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/hardeep04/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hardeep04/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/hardeep04/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/hardeep04/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -329,6 +332,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/hardeep04/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hardeep04/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
