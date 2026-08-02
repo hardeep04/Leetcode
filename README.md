@@ -26,6 +26,7 @@
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hardeep04/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/hardeep04/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/hardeep04/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/hardeep04/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardeep04/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -186,6 +187,7 @@
 | [0022-generate-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/hardeep04/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/hardeep04/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardeep04/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/hardeep04/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -204,6 +206,7 @@
 | [0048-rotate-image](https://github.com/hardeep04/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +235,7 @@
 | [0020-valid-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/hardeep04/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0155-min-stack](https://github.com/hardeep04/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/hardeep04/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/hardeep04/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -335,6 +339,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/hardeep04/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/hardeep04/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
