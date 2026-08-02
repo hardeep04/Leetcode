@@ -30,8 +30,7 @@ public:
         int ans=0;
         vector<int> nse=NSE(v), pse=PSE(v);
         for(int i=0; i<c; i++){
-            int val=(nse[i] - pse[i]-1) * v[i]; 
-            ans = max(ans, val);   
+            ans = max(ans, (nse[i] - pse[i]-1) * v[i]);   
         }
         return ans;
     }
@@ -44,8 +43,6 @@ public:
                 if(mat[i][j]=='1') v[j]+=1;
                 else v[j]=0;
             }
-            for(int k:v) cout<<k<<" ";
-            cout<<endl;
             ans = max(ans,fun(v,c));
         }
         return ans;
