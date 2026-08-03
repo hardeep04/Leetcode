@@ -29,7 +29,6 @@ public:
             if(v[s[j]]>=i) i=v[s[j]]+1;
             v[s[j]] = j;
             ans=max(ans, j-i+1);
-            cout<<s[j]<<" ";
         }
         return ans;
     }
