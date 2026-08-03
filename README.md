@@ -49,6 +49,7 @@
 | [0704-binary-search](https://github.com/hardeep04/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/hardeep04/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/hardeep04/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hardeep04/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hardeep04/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hardeep04/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -89,6 +90,7 @@
 | [0204-count-primes](https://github.com/hardeep04/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/hardeep04/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0282-expression-add-operators](https://github.com/hardeep04/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
+| [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/hardeep04/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hardeep04/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -195,6 +197,7 @@
 | [0131-palindrome-partitioning](https://github.com/hardeep04/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/hardeep04/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/hardeep04/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hardeep04/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -381,4 +384,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardeep04/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
