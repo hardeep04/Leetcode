@@ -51,6 +51,7 @@
 | [0875-koko-eating-bananas](https://github.com/hardeep04/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hardeep04/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0994-rotting-oranges](https://github.com/hardeep04/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hardeep04/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hardeep04/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardeep04/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -213,6 +214,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0994-rotting-oranges](https://github.com/hardeep04/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,4 +405,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/hardeep04/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0994-rotting-oranges](https://github.com/hardeep04/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
