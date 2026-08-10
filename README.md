@@ -31,6 +31,7 @@
 | [0118-pascals-triangle](https://github.com/hardeep04/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardeep04/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/hardeep04/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/hardeep04/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/hardeep04/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/hardeep04/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hardeep04/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -207,6 +208,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hardeep04/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/hardeep04/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/hardeep04/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardeep04/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
@@ -217,6 +219,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0130-surrounded-regions](https://github.com/hardeep04/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/hardeep04/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/hardeep04/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/hardeep04/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -320,6 +323,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/hardeep04/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/hardeep04/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/hardeep04/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/hardeep04/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -412,6 +416,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/hardeep04/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/hardeep04/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0542-01-matrix](https://github.com/hardeep04/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/hardeep04/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
