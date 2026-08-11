@@ -14,23 +14,7 @@ public:
         vector<vector<bool>> vis(n, vector<bool>(m,0));
         int ans=0;
         for(int i=0; i<n; i++){
-            if(grid[i][0]=='1' && !vis[i][0]){
-                ans++; dfs(grid, i, 0, vis);
-            }
-            if(grid[i][m-1]=='1' && !vis[i][m-1]){
-                ans++; dfs(grid, i, m-1, vis);
-            }
-        }
-        for(int j=0; j<m; j++){
-            if(grid[0][j]=='1' && !vis[0][j]){
-                ans++; dfs(grid, 0, j, vis);
-            }
-            if(grid[n-1][j]=='1' && !vis[n-1][j]){
-                ans++; dfs(grid, n-1, j, vis);
-            }
-        }
-        for(int i=1; i<n-1; i++){
-            for(int j=1; j<m-1; j++){
+            for(int j=0; j<m; j++){
                 if(grid[i][j]=='1' && !vis[i][j]){
                     ans++; dfs(grid, i, j, vis);
                 }
