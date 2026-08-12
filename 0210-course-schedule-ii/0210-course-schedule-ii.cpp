@@ -15,11 +15,9 @@ public:
             }
         }
         vector<int> ans;
-        int cnt=0;
         while(!q.empty()){
             int curr=q.front();
             q.pop();
-            cnt++;
             ans.push_back(curr);
             for(int neighbour : adj[curr]){
                 indegree[neighbour]--;
@@ -28,7 +26,7 @@ public:
                 }
             }
         }
-        if(cnt==num) return ans;
+        if(ans.size()==num) return ans;
         return {};
     }
 };
