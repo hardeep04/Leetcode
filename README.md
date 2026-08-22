@@ -58,6 +58,7 @@
 | [0994-rotting-oranges](https://github.com/hardeep04/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hardeep04/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/hardeep04/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hardeep04/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hardeep04/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardeep04/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hardeep04/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -230,6 +231,7 @@
 | [0733-flood-fill](https://github.com/hardeep04/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/hardeep04/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/hardeep04/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hardeep04/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +444,7 @@
 | [0802-find-eventual-safe-states](https://github.com/hardeep04/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/hardeep04/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/hardeep04/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hardeep04/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
