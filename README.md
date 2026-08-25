@@ -267,6 +267,7 @@
 | [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/hardeep04/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/hardeep04/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/hardeep04/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/hardeep04/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/hardeep04/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -342,6 +343,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/hardeep04/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/hardeep04/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/hardeep04/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/hardeep04/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/hardeep04/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -502,4 +504,12 @@
 | [0743-network-delay-time](https://github.com/hardeep04/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardeep04/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hardeep04/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hardeep04/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hardeep04/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
