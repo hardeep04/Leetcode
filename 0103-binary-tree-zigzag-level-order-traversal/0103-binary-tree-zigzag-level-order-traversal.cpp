@@ -21,16 +21,15 @@ public:
             TreeNode* temp = q.front();
             int x = q.size();
             b++;
-            // q.pop();
-            vector<int> v;
+            vector<int> v(x);
             for(int i=0; i<x; i++){
-                v.push_back(temp->val);
+                if(b&1) v[i] = temp->val;
+                else v[x-i-1] = temp->val;
                 if(temp->left) q.push(temp->left);
                 if(temp->right) q.push(temp->right);
                 q.pop();
                 temp=q.front();
             }
-            if((b&1)==0) reverse(v.begin(), v.end());
             ans.push_back(v);
         }
         return ans;
