@@ -9,14 +9,28 @@ public:
     // }
 
     // tabulation --------------------------------
+    // int fun(int s, int e, vector<int>& nums, vector<int> &dp){
+    //     for(int i=s+1; i<=e; i++){
+    //         int take = nums[i];
+    //         if(i>s+1) take += dp[i-2];
+    //         int nottake = dp[i-1];
+    //         dp[i] = max(take,nottake);
+    //     }
+    //     return dp[e];
+    // }
+    
+    //after space optimization--------------------
     int fun(int s, int e, vector<int>& nums, vector<int> &dp){
+        int prev2=0, prev=nums[s];
         for(int i=s+1; i<=e; i++){
-            int take = nums[i];
-            if(i>s+1) take += dp[i-2];
-            int nottake = dp[i-1];
-            dp[i] = max(take,nottake);
+            int take = nums[i] + prev2;
+            int nottake = prev;
+            int curr = max(take,nottake);
+
+            prev2=prev;
+            prev=curr;
         }
-        return dp[e];
+        return prev;
     }
     int rob(vector<int>& nums) {
         int n=nums.size();
