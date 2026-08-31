@@ -38,6 +38,7 @@
 | [0162-find-peak-element](https://github.com/hardeep04/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/hardeep04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/hardeep04/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/hardeep04/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/hardeep04/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/hardeep04/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0216-combination-sum-iii](https://github.com/hardeep04/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
@@ -206,6 +207,7 @@
 | [0131-palindrome-partitioning](https://github.com/hardeep04/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/hardeep04/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/hardeep04/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/hardeep04/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/hardeep04/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardeep04/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
