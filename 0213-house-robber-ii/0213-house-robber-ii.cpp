@@ -20,7 +20,7 @@ public:
     // }
     
     //after space optimization--------------------
-    int fun(int s, int e, vector<int>& nums, vector<int> &dp){
+    int fun(int s, int e, vector<int>& nums){
         int prev2=0, prev=nums[s];
         for(int i=s+1; i<=e; i++){
             int take = nums[i] + prev2;
@@ -35,8 +35,9 @@ public:
     int rob(vector<int>& nums) {
         int n=nums.size();
         if(n==1) return nums[0];
-        vector<int> dp(n,-1), dp2(n,-1);
-        dp[0] = nums[0], dp2[1] = nums[1];
-        return max(fun(0,n-2, nums, dp), fun(1,n-1, nums, dp2));
+        // vector<int> dp(n,-1), dp2(n,-1);
+        // dp[0] = nums[0], dp2[1] = nums[1];
+        // return max(fun(0,n-2, nums, dp), fun(1,n-1, nums, dp2));
+        return max(fun(0,n-2, nums), fun(1,n-1, nums));
     }
 };
