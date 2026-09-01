@@ -1,15 +1,12 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        vector<int> prevRow(n,1);
-        for(int i=1; i<m; i++){
-            vector<int> currRow(n);
-            currRow[0]=1;
-            for(int j=1; j<n; j++){
-                currRow[j] = prevRow[j] + currRow[j-1];
-            }
-            prevRow = currRow;
+        long long res = 1;
+        int N = m+n-2 , r=m-1;
+        if(r > N-r) r=N-r;
+        for (int i = 1; i <= r; ++i) {
+            res = res * (N - i + 1) / i;
         }
-        return prevRow[n-1];
+        return (int)res;
     }
 };
