@@ -21,6 +21,7 @@
 | [0053-maximum-subarray](https://github.com/hardeep04/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/hardeep04/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/hardeep04/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/hardeep04/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/hardeep04/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/hardeep04/Leetcode/tree/main/0078-subsets/) | Medium |
@@ -205,6 +206,7 @@
 | [0053-maximum-subarray](https://github.com/hardeep04/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/hardeep04/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/hardeep04/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/hardeep04/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/hardeep04/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardeep04/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -236,6 +238,7 @@
 | [0037-sudoku-solver](https://github.com/hardeep04/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/hardeep04/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/hardeep04/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/hardeep04/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
