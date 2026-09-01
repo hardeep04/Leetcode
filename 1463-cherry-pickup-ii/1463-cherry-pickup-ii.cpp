@@ -22,33 +22,36 @@ public:
     // }
     int cherryPickup(vector<vector<int>>& grid) {
         int n=grid.size(), m=grid[0].size();
-        int dp[71][71][71];
-        memset(dp, -1, sizeof(dp));
+        // int dp[71][71][71];
+        // memset(dp, -1, sizeof(dp));
         // return fun(grid, 0, 0,m-1,dp);
         
-
+        vector<vector<int>> prev(m, vector<int>(m, 0));
         for(int j=0; j<m; j++){
             for(int j2=0; j2<m; j2++){
-                if(j==j2) dp[n-1][j][j2] = grid[n-1][j];
-                else dp[n-1][j][j2] = grid[n-1][j] + grid[n-1][j2];
+                if(j==j2) prev[j][j2] = grid[n-1][j];
+                else prev[j][j2] = grid[n-1][j] + grid[n-1][j2];
             }
         }
 
         for(int i=n-2; i>=0; i--){
+            vector<vector<int>> curr(m, vector<int>(m, 0));
             for(int j=0; j<m; j++){
                 for(int j2=0; j2<m; j2++){
                     for(int k=-1; k<2; k++){
                         for(int l=-1; l<2; l++){
                             int temp = grid[i][j];
                             if(j!=j2) temp+=grid[i][j2];
-                            if(j+k>=0 && j2+l>=0 && j+k < m && j2+l < m) temp+=dp[i+1][j+k][j2+l];
+                            if(j+k>=0 && j2+l>=0 && j+k < m && j2+l < m) temp+=prev[j+k][j2+l];
                             else temp=-1e9;
-                            dp[i][j][j2] = max(dp[i][j][j2],temp);
+                            curr[j][j2] = max(curr[j][j2],temp);
                         }
                     }
+                    
                 }
             }
+            prev=curr;
         }
-        return dp[0][0][m-1];
+        return prev[0][m-1];
     }
 };
