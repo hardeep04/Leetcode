@@ -16,19 +16,23 @@ public:
         int sum = accumulate(nums.begin(), nums.end(),0);
         int target = (sum>>1);
         if((sum&1)) return 0;
-        vector<vector<int>> dp(n+1, vector<int>(target+1,0));
-        // return fun(nums, 0, 0, (sum>>1), dp);
+        // vector<vector<int>> dp(n+1, vector<int>(target+1,0));
+        // return fun(nums, 0, 0, target, dp);
 
-        for(int i=0; i<=n; i++) dp[i][0]=1;
-
+        // for(int i=0; i<=n; i++) dp[i][0]=1;
+        vector<int> prev(target+1, 0);
+        prev[0]=1;
         for(int i=n-1; i>=0; i--){
+            vector<int> curr(target+1,0);
+            curr[0]=1;
             for(int j=1; j<=target; j++){
                 bool left=0;
-                if(j>=nums[i]) left=dp[i+1][j-nums[i]];
-                bool right = dp[i+1][j];
-                dp[i][j] = left | right;
+                if(j>=nums[i]) left=prev[j-nums[i]];
+                bool right = prev[j];
+                curr[j] = left | right;
             }
+            prev = curr;
         }
-        return dp[0][target];
+        return prev[target];
     }
 };
