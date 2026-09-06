@@ -49,6 +49,7 @@
 | [0229-majority-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/hardeep04/Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/hardeep04/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/hardeep04/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -219,6 +220,7 @@
 | [0152-maximum-product-subarray](https://github.com/hardeep04/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/hardeep04/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/hardeep04/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/hardeep04/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0542-01-matrix](https://github.com/hardeep04/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardeep04/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -570,4 +572,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/hardeep04/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/hardeep04/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/hardeep04/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
