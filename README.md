@@ -73,6 +73,7 @@
 | [1631-path-with-minimum-effort](https://github.com/hardeep04/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hardeep04/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/hardeep04/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/hardeep04/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardeep04/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -95,6 +96,7 @@
 | [0283-move-zeroes](https://github.com/hardeep04/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/hardeep04/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/hardeep04/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/hardeep04/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/hardeep04/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/hardeep04/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardeep04/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/hardeep04/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hardeep04/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
@@ -185,6 +188,7 @@
 | [0402-remove-k-digits](https://github.com/hardeep04/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/hardeep04/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/hardeep04/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
