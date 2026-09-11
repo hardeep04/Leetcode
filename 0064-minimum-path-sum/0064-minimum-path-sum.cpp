@@ -14,20 +14,24 @@ public:
         int n=grid.size(), m=grid[0].size();
         // vector<vector<int>> dp(n, vector<int>(m, -1));
         // return fun(grid, 0, 0, dp);
-        vector<vector<int>> dp(n, vector<int>(m, 0));
-        dp[n-1][m-1] = grid[n-1][m-1];
+        // vector<vector<int>> dp(n, vector<int>(m, 0));
+        // dp[n-1][m-1] = grid[n-1][m-1];
+        vector<int> prev(m,0);
         for(int i=n-1; i>=0; i--){
+            vector<int> curr(m,0);
+            curr[m-1] = grid[n-1][m-1];
             for(int j=m-1; j>=0; j--){
                 if(i==n-1 && j==m-1) continue;
                 int d = grid[i][j];
-                if(i<n-1) d+= dp[i+1][j];
+                if(i<n-1) d+= prev[j];
                 else d=INT_MAX;
                 int r = grid[i][j];
-                if(j<m-1) r+= dp[i][j+1];
+                if(j<m-1) r+= curr[j+1];
                 else r=INT_MAX;
-                dp[i][j] = min(d,r);
+                curr[j] = min(d,r);
             }
+            prev = curr;
         }
-        return dp[0][0];
+        return prev[0];
     }
 };
