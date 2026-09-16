@@ -15,22 +15,25 @@ public:
     // }
     int coinChange(vector<int>& coins, int amount) {
         int n=coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount+1, 0));
+        // vector<vector<int>> dp(n, vector<int>(amount+1, 0));
         // int ans = fun(coins, amount, 0, dp);
         // if(ans == 1e9) return -1; 
         // return ans;
+        vector<int> prev(amount+1, 0);
         for(int j=1; j<=amount; j++){
-            if(j % coins[n-1] == 0) dp[n-1][j] = j/coins[n-1];
-            else dp[n-1][j] = 1e9;
+            if(j % coins[n-1] == 0) prev[j] = j/coins[n-1];
+            else prev[j] = 1e9;
         }
         for(int i=n-2; i>=0; i--){
+            vector<int> curr(amount+1, 0);
             for(int j=0; j<=amount; j++){
                 int left=1e9;
-                if(j>=coins[i]) left = 1 + dp[i][j-coins[i]];
-                int right=dp[i+1][j]; 
-                dp[i][j] = min(left, right);
+                if(j>=coins[i]) left = 1 + curr[j-coins[i]];
+                int right=prev[j]; 
+                curr[j] = min(left, right);
             }
+            prev = curr;
         }
-        return dp[0][amount] == 1e9 ? -1 : dp[0][amount];
+        return prev[amount] == 1e9 ? -1 : prev[amount];
     }
 };
