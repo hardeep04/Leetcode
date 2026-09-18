@@ -18,19 +18,18 @@ public:
         if(abs(target)>sum) return 0;
         vector<vector<int>> dp(n + 1, vector<int>(2 * sum + 1, 0));
 
-        dp[n][sum] = 1;
+        dp[n][target + sum] = 1;
         for (int i = n - 1; i >= 0; i--) {
             for (int j = -sum; j <= sum; j++) {
-                if (dp[i + 1][j + sum] > 0) {
-                    if (j + nums[i] <= sum) {
-                        dp[i][j + nums[i] + sum] += dp[i + 1][j + sum];
-                    }
-                    if (j - nums[i] >= -sum) {
-                        dp[i][j - nums[i] + sum] += dp[i + 1][j + sum];
-                    }
-                }
+                int left=0;
+                if(j + nums[i] <= sum) left = dp[i + 1][j + nums[i] + sum];
+                
+                int right=0;
+                if(j - nums[i] >= -sum) right = dp[i + 1][j - nums[i] + sum];
+
+                dp[i][j + sum] = left + right;
             }
         }
-        return dp[0][target + sum];
+        return dp[0][sum];
     }
 };
