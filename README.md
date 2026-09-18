@@ -54,6 +54,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hardeep04/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/hardeep04/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/hardeep04/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0494-target-sum](https://github.com/hardeep04/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hardeep04/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/hardeep04/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -239,6 +240,7 @@
 | [0213-house-robber-ii](https://github.com/hardeep04/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/hardeep04/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/hardeep04/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/hardeep04/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0542-01-matrix](https://github.com/hardeep04/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardeep04/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -374,6 +376,7 @@
 | [0131-palindrome-partitioning](https://github.com/hardeep04/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/hardeep04/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0282-expression-add-operators](https://github.com/hardeep04/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
+| [0494-target-sum](https://github.com/hardeep04/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -603,10 +606,12 @@
 | ------- | ------- |
 | [0322-coin-change](https://github.com/hardeep04/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/hardeep04/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/hardeep04/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/hardeep04/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/hardeep04/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
