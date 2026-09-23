@@ -77,6 +77,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardeep04/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hardeep04/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/hardeep04/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hardeep04/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hardeep04/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/hardeep04/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hardeep04/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -141,6 +142,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/hardeep04/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/hardeep04/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/hardeep04/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hardeep04/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hardeep04/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hardeep04/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -284,6 +286,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hardeep04/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hardeep04/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/hardeep04/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -302,6 +305,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hardeep04/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hardeep04/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/hardeep04/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hardeep04/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardeep04/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Stack
@@ -494,6 +498,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardeep04/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/hardeep04/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hardeep04/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
