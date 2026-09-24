@@ -75,6 +75,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hardeep04/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/hardeep04/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardeep04/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/hardeep04/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hardeep04/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/hardeep04/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hardeep04/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -288,6 +289,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hardeep04/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/hardeep04/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hardeep04/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/hardeep04/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Binary Search
