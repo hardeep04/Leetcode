@@ -98,6 +98,7 @@
 | [0031-next-permutation](https://github.com/hardeep04/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/hardeep04/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/hardeep04/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/hardeep04/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hardeep04/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/hardeep04/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -182,6 +183,7 @@
 | [0020-valid-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0125-valid-palindrome](https://github.com/hardeep04/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/hardeep04/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/hardeep04/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/hardeep04/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
