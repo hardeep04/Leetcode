@@ -72,6 +72,7 @@
 | [1020-number-of-enclaves](https://github.com/hardeep04/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hardeep04/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/hardeep04/Leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/hardeep04/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hardeep04/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/hardeep04/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardeep04/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -258,6 +259,7 @@
 | [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hardeep04/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/hardeep04/Leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/hardeep04/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/hardeep04/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hardeep04/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Union-Find
@@ -288,6 +290,7 @@
 | [0994-rotting-oranges](https://github.com/hardeep04/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/hardeep04/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hardeep04/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/hardeep04/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/hardeep04/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/hardeep04/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/hardeep04/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
