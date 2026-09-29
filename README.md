@@ -83,6 +83,7 @@
 | [1672-richest-customer-wealth](https://github.com/hardeep04/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hardeep04/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/hardeep04/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hardeep04/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hardeep04/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardeep04/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -262,6 +263,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/hardeep04/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/hardeep04/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hardeep04/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hardeep04/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +296,7 @@
 | [1463-cherry-pickup-ii](https://github.com/hardeep04/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/hardeep04/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/hardeep04/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hardeep04/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -654,4 +657,8 @@
 | ------- | ------- |
 | [0322-coin-change](https://github.com/hardeep04/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/hardeep04/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hardeep04/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
