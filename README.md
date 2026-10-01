@@ -65,6 +65,7 @@
 | [0542-01-matrix](https://github.com/hardeep04/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/hardeep04/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/hardeep04/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hardeep04/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/hardeep04/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/hardeep04/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/hardeep04/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -213,6 +214,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hardeep04/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/hardeep04/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/hardeep04/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hardeep04/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/hardeep04/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hardeep04/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -264,6 +266,7 @@
 | [0494-target-sum](https://github.com/hardeep04/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/hardeep04/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/hardeep04/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hardeep04/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardeep04/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/hardeep04/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hardeep04/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
