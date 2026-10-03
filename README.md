@@ -189,6 +189,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hardeep04/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0079-word-search](https://github.com/hardeep04/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/hardeep04/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/hardeep04/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -244,6 +245,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardeep04/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/hardeep04/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/hardeep04/Leetcode/tree/main/0062-unique-paths/) | Medium |
@@ -341,6 +343,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/hardeep04/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/hardeep04/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/hardeep04/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
@@ -676,6 +679,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/hardeep04/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hardeep04/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hardeep04/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
