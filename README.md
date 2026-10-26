@@ -95,6 +95,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hardeep04/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardeep04/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hardeep04/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hardeep04/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hardeep04/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3862-find-the-smallest-balanced-index](https://github.com/hardeep04/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Two Pointers
@@ -295,6 +296,7 @@
 | [1254-number-of-closed-islands](https://github.com/hardeep04/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/hardeep04/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardeep04/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hardeep04/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +320,7 @@
 | [1631-path-with-minimum-effort](https://github.com/hardeep04/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/hardeep04/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hardeep04/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hardeep04/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +461,7 @@
 | [1020-number-of-enclaves](https://github.com/hardeep04/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hardeep04/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/hardeep04/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hardeep04/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -578,6 +582,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/hardeep04/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hardeep04/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/hardeep04/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hardeep04/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
